@@ -1,0 +1,30 @@
+{
+ "users" :[
+  {
+    "user_id": "u12345",
+    "email": "user@example.com",
+    "age": 25,
+    "phone": "9876543210"
+  },
+  {
+    "user_id": "",
+    "email": "user@example.com",
+    "age": 25,
+    "phone": "9876543210"
+  },
+  {
+    "user_id": "u12367",
+    "email": "abc@test.com",
+    "age": 12,
+    "phone": "9876543210"
+  },
+   {
+     "user_id": "u12367",
+     "email": "abc@test.com",
+     "age": 25,
+     "phone": ""
+   }
+
+ ]
+
+}
